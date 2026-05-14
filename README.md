@@ -116,4 +116,4 @@ This report is submitted solely for the MITRE ATT&CK Research. All research is b
 
 ---
 
-*MITRE ATT&CK Group Leader Selection Program | May 2026*
+*MITRE ATT&CK | May 2026*
