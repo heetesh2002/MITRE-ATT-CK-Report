@@ -12,7 +12,7 @@
 ## 📁 Repository Contents
 
 ```
-📄 MITRE_ATTandCK_Report_.docx  — Full research report 
+📄 MITRE_ATTandCK_Report_.pdf  — Full research report 
 📄 README.md                    — Repository overview
 ```
 
